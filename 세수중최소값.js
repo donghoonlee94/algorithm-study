@@ -1,9 +1,8 @@
 function solution(a, b, c) {
-  let answer;
+  const temp = a < b ? a : b;
 
-  const t = a < b ? a : b;
-
-  return t < c ? t : c;
+  return temp < c ? temp : c;
 }
 
 console.log(solution(20, 50, 70));
+console.log(solution(6, 2, 70));
