@@ -1,0 +1,22 @@
+{
+  "name": "algorithm-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "삼각형판별하기.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donghoonlee94/algorithm-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donghoonlee94/algorithm-study/issues"
+  },
+  "homepage": "https://github.com/donghoonlee94/algorithm-study#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
